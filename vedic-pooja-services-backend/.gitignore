@@ -1,0 +1,27 @@
+# Maven / Java
+target/
+.gradle/
+.out/
+.classpath
+.project
+.settings/
+dependency-reduced-pom.xml
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+
+# Spring Boot
+*.pid
+
+# Docker
+docker-data/
